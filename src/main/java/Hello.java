@@ -6,6 +6,6 @@ public class Hello {
 
         System.out.println("Local repo is published to remote repo Github.com");
 
-        System.out.println("I am doing mroe work");
+        System.out.println("I am doing more work");
     }
 }
